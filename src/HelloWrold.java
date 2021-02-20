@@ -4,5 +4,6 @@ public class HelloWrold {
 		System.out.println("Hello GOD World");
 		System.out.println("Hello jesus World");
 		System.out.println("Hello Holy Ghost(Spirit) Wold");
+		System.out.println("Hello Holy Bible World");
 	}
 }
